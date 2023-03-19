@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    background-color: #FFBC81;
+    text-align: center;
+}
+
+.Navegador{
+    text-align: center;
+    color:white;
+}
+
+.imagen-perro:hover{
+    opacity: 100;
+
+}
+
+.boton-login:hover{
+    margin: 10px;
+    color: aqua;
+}
