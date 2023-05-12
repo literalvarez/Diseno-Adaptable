@@ -60,11 +60,16 @@ form .link {
 .btn-login {
   color: #fff;
   border: none;
-  background: linear-gradient(to right, #f5b87f, #e4842b);
+  background: #e4842b;
+  border-radius: 15px;
   padding: 10px 15px;
   cursor: pointer;
   font-size: 20px;
   text-decoration: none;
+}
+
+section {
+  display: flex;
 }
 
 .adopt-principal {
@@ -115,6 +120,7 @@ section div h2{
     color: #ffffff;
     margin-top: 15px;
 }
+
 
 /* Para hacerle zoom a las imagenes*/
 .image-container {
@@ -287,10 +293,9 @@ body{
   left: 0;
   width: 100%;
   min-height: 70px;
-  display: flex;
   background-color: #f79840;
-  justify-content: space-between;
   align-items: center;
+  text-align: center;
   padding: 10px;
   }
   
