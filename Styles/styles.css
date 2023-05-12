@@ -60,18 +60,25 @@ form .link {
 .btn-login {
   color: #fff;
   border: none;
+<<<<<<< HEAD
   background: #e4842b;
   border-radius: 15px;
+=======
+  background: linear-gradient(to right, #f5b87f, #e4842b);
+>>>>>>> 8b1b6f4f45f869895f6b26bdf32d998a7b2e945d
   padding: 10px 15px;
   cursor: pointer;
   font-size: 20px;
   text-decoration: none;
 }
 
+<<<<<<< HEAD
 section {
   display: flex;
 }
 
+=======
+>>>>>>> 8b1b6f4f45f869895f6b26bdf32d998a7b2e945d
 .adopt-principal {
   margin: 0 auto;
   width: 35%;
@@ -121,7 +128,10 @@ section div h2{
     margin-top: 15px;
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 8b1b6f4f45f869895f6b26bdf32d998a7b2e945d
 /* Para hacerle zoom a las imagenes*/
 .image-container {
   position: relative;
@@ -293,9 +303,16 @@ body{
   left: 0;
   width: 100%;
   min-height: 70px;
+<<<<<<< HEAD
   background-color: #f79840;
   align-items: center;
   text-align: center;
+=======
+  display: flex;
+  background-color: #f79840;
+  justify-content: space-between;
+  align-items: center;
+>>>>>>> 8b1b6f4f45f869895f6b26bdf32d998a7b2e945d
   padding: 10px;
   }
   
