@@ -190,6 +190,7 @@ section div h2{
   cursor: pointer;
   font-size: 20px;
   text-decoration: none;
+  border-radius: 15px;
 }
 
 form .adopt {
